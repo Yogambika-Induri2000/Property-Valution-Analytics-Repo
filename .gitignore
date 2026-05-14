@@ -5,7 +5,6 @@ __pycache__/
 
 # Local Data (Never upload the 1,460 records to GitHub)
 data/raw/
-data/processed/
 *.csv
 
 # Database & Credentials
